@@ -11,7 +11,9 @@ namespace ProgrammingInCSharpExam70_483
         static void Main(string[] args)
         {
             //Section3.Do();
-            Section7.Do();
+            Section9.Do();
+            Console.WriteLine("Finished!!! enter something ------");
+            Console.Read();
         }
     }
 }
